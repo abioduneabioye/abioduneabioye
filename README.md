@@ -1,4 +1,4 @@
-# Hey there 👋, I’m Abiodun Abioye
+# Hey there 👋, I’m Abiodun Emmanuel Abioye
 
 🌱 **Engineer | Researcher | Educator | Digital Agriculture Enthusiast**
 
