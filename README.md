@@ -60,9 +60,11 @@ I am deeply committed to **hands-on, project-driven STEM education** and undergr
 - Teaching:
   - **CSCI 40** – Programming Concepts (C++)
   - **CSCI 1** – Introduction to Computer Science (Python)
+  - **CSCI 26** – Discrete Mathematics
+  - **CSCI 45** – Computer Organisation and Assembly Language Programming
   - **ENGR 10** – Introduction to Engineering
   - **ENGR 5** – Programming & Problem Solving in MATLAB
-- Conducting **practical experiments and research in STEM education**
+ - Conducting **practical experiments and research in STEM education**
   - INTDS 101 & INTDS 103
 - Supervising **student capstone projects and outreach activities**
   - STEM Night
