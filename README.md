@@ -2,7 +2,7 @@
 
 🌱 **Engineer | Researcher | Educator | Digital Agriculture Enthusiast**
 
-I work at the intersection of **AI, sensing, robotics, and sustainable agriculture**, with a strong focus on building **accessible, data-driven solutions** for real-world farming challenges—especially in resource-constrained environments.
+I work at the intersection of **AI, sensing, robotics, and sustainable agriculture**, with a strong focus on building **accessible, data-driven solutions** for real-world farming challenges especially in resource-constrained environments.
 
 ---
 
