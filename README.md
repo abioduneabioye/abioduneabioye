@@ -11,6 +11,7 @@ I work at the intersection of **AI, sensing, robotics, and sustainable agricultu
 - 🛰️ **Spectral intelligence & remote sensing** (RGB → hyperspectral insights)
 - 🤖 **Agricultural robotics** (autonomous navigation, sensing, and actuation)
 - 📱 **Smart irrigation systems** (mobile apps, IoT, Bluetooth/SMS control)
+- 📱 **sensor design** Low-cost sensing solutions for smallholder and resource-constrained farmers
 - 🧠 **Physics-informed machine learning** (PROSAIL, crop models, AI + domain knowledge)
 
 ---
@@ -52,20 +53,20 @@ I work at the intersection of **AI, sensing, robotics, and sustainable agricultu
 ---
 
 ## 🎓 Teaching & Mentorship
-- Engineering Instructor at **Reedley College**
-- Mentor for undergraduate research, robotics teams, and scholarship applicants
-- Passionate about **hands-on learning and inclusive STEM education**
-- Carrying out applied research on Agricultural sensors and social robotics.
--Team lead of the Reedley College Ag Robotics Research Team for the Farm Robotic Challenge.
--Team member of the Reedley College Dielectric Actuators Research Group.
--Teaching CSCI-40- Programming Concepts and Methodology (C++), 
--ENGR 10-Introduction to Engineering, 
--CSCI-1 Introduction to Computer Science (Python), 
--ENGR 5 - Programming and Problem Solving in MATLAB
--Conducting practical experiments and research in STEM education (INTDS 101 & INTDS 103)
--Supervising students' capstone projects and activities (STEM night and SCI-FRI)
-
-
+I am deeply committed to **hands-on, project-driven STEM education** and undergraduate research.
+- Conducting **applied research on agricultural sensors and social robotics**
+- **Team Lead**, Reedley College **Ag Robotics Research Team** (Farm Robotics Challenge)
+- **Team Member**, Reedley College **Dielectric Actuators Research Group**
+- Teaching:
+  - **CSCI 40** – Programming Concepts (C++)
+  - **CSCI 1** – Introduction to Computer Science (Python)
+  - **ENGR 10** – Introduction to Engineering
+  - **ENGR 5** – Programming & Problem Solving in MATLAB
+- Conducting **practical experiments and research in STEM education**
+  - INTDS 101 & INTDS 103
+- Supervising **student capstone projects and outreach activities**
+  - STEM Night
+  - SCI-FRI events
 ---
 
 ## 🌍 Why I Do This
