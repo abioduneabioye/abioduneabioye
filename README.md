@@ -9,7 +9,7 @@ I work at the intersection of **AI, sensing, robotics, and sustainable agricultu
 ## 🚀 What I’m Working On
 - 🌾 **AI-driven precision agriculture** (crop stress, irrigation, nutrient optimization)
 - 🛰️ **Spectral intelligence & remote sensing** (RGB → hyperspectral insights)
-- 🤖 **Agricultural robotics** (autonomous navigation, sensing, and actuation)
+- 🤖 **Agricultural and Social robotics** (autonomous navigation, sensing, and actuation)
 - 📱 **Smart irrigation systems** (mobile apps, IoT, Bluetooth/SMS control)
 - 📱 **sensor design** Low-cost sensing solutions for smallholder and resource-constrained farmers
 - 🧠 **Physics-informed machine learning** (PROSAIL, crop models, AI + domain knowledge)
