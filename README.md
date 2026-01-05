@@ -33,6 +33,12 @@ I work at the intersection of **AI, sensing, robotics, and sustainable agricultu
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
 
+### Precision Agriculture Tech
+![Sensors](https://img.shields.io/badge/Sensors-2E7D32?style=flat)
+![RGB](https://img.shields.io/badge/RGB-Camera-1565C0?style=flat)
+![Multispectral](https://img.shields.io/badge/Multispectral-Imaging-6A1B9A?style=flat)
+![Hyperspectral](https://img.shields.io/badge/Hyperspectral-Imaging-4E342E?style=flat)
+
 ### AI / Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow)
@@ -43,6 +49,13 @@ I work at the intersection of **AI, sensing, robotics, and sustainable agricultu
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros)
 ![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi)
+
+### Generative AI
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat)
+![Chatbots](https://img.shields.io/badge/Chatbots-1E88E5?style=flat)
+![VLMs](https://img.shields.io/badge/VLMs-00897B?style=flat)
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
