@@ -21,7 +21,8 @@ I work at the intersection of **AI, sensing, robotics, and sustainable agricultu
 - Computer Vision for Crop Monitoring  
 - Hyperspectral & Multispectral Data Analysis  
 - AI for Climate-Smart Agriculture  
-- Robotics for Greenhouses & Field Applications  
+- Robotics for Greenhouses & Field Applications
+- Social Robot for Healthcare
 
 ---
 
